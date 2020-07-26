@@ -1,4 +1,6 @@
-using NUnit.Framework;
+﻿using NUnit.Framework;
+
+#pragma warning disable CA1707
 
 namespace LeapYearTask.Tests
 {
